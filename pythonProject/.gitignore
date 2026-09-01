@@ -1,3 +1,2 @@
-# Environnements virtuels Python
-venv/
-.venv/
+.venv
+.idea
