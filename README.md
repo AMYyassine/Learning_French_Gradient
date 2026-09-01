@@ -105,3 +105,5 @@ Chaque notion est étudiée dans le même ordre :
 - permet d'entraîner un modèle de machine learning en minimisant son erreur.
 
 Ce projet fait partie de la préparation au cours **IFT 6390**.
+
+Ce petit Lab à été réaliser par un **ETUDIANT** je peux me tromper !
