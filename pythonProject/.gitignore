@@ -1,2 +1,7 @@
-.venv
-.idea
+# PyCharm / IntelliJ
+.idea/
+*.iml
+
+# Environnements virtuels
+venv/
+.venv/
